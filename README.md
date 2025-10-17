@@ -1,1 +1,0 @@
-# starter-void-box
